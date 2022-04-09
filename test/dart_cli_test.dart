@@ -1,8 +1,9 @@
-import 'package:dart_cli/dart_cli.dart';
 import 'package:test/test.dart';
+
+import 'package:dart_lang_sample_library_1/calculations.dart' as Calculations;
 
 void main() {
   test('calculate', () {
-    expect(calculate(), 42);
+    expect(Calculations.calculate(), 42);
   });
 }

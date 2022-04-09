@@ -1,7 +1,7 @@
-name: dart_cli
-description: A sample command-line application.
+name: dart_lang_sample_library_1
+description: A thing that can be imported from another dart-lang project
 version: 1.0.0
-# homepage: https://www.example.com
+homepage: https://github.com/easoncxz/dart-lang-sample-lib-1
 
 environment:
   sdk: '>=2.16.2 <3.0.0'
